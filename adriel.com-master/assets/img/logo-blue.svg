@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73.04" height="30" viewBox="0 0 73.04 30">
+    <defs>
+        <style>
+            .cls-1{fill:rgba(255,255,255,0)}.cls-2{fill:#002659}
+        </style>
+    </defs>
+    <g id="그룹_590" data-name="그룹 590" transform="translate(-160 -18)">
+        <path id="사각형_72" d="M0 0h73v30H0z" class="cls-1" data-name="사각형 72" transform="translate(160 18)"/>
+        <g id="그룹_151" data-name="그룹 151" transform="translate(-100 -4)">
+            <path id="패스_1" d="M124.888 5.31v21.3H121.6v-2.193A6.252 6.252 0 0 1 116.277 27a7.775 7.775 0 0 1-7.577-8 7.756 7.756 0 0 1 7.577-8 6.31 6.31 0 0 1 5.325 2.555V5.31zM121.6 19a4.807 4.807 0 1 0-9.614 0 4.807 4.807 0 1 0 9.614 0z" class="cls-2" data-name="패스 1" transform="translate(169.968 21.602)"/>
+            <path id="패스_2" d="M227.24 39.15v3.56c-2.16-.153-4.685.852-4.685 4.259v7.668h-3.285V39.425h3.285v2.555a4.787 4.787 0 0 1 4.685-2.83z" class="cls-2" data-name="패스 2" transform="translate(78.386 -6.427)"/>
+            <path id="패스_3" d="M271.18 5.119a2.1 2.1 0 1 1 2.1 2.1 2.1 2.1 0 0 1-2.1-2.1zm.455 4.381h3.285v15.212h-3.285z" class="cls-2" data-name="패스 3" transform="translate(35.391 23.499)"/>
+            <path id="패스_4" d="M312.437 51.433a4.642 4.642 0 0 0 3.924-1.886l2.708 1.582a7.684 7.684 0 0 1-6.663 3.316c-5.02 0-8.276-3.438-8.276-8a7.761 7.761 0 0 1 8.032-8c4.534 0 7.637 3.651 7.637 8.032a9.8 9.8 0 0 1-.122 1.369h-12.109c.517 2.37 2.432 3.587 4.869 3.587zm4.046-6.268a4.232 4.232 0 0 0-4.35-3.742 4.42 4.42 0 0 0-4.594 3.742z" class="cls-2" data-name="패스 4" transform="translate(8.1 -5.839)"/>
+            <path id="패스_5" d="M406.18 0h3.285v22.21h-3.285z" class="cls-2" data-name="패스 5" transform="translate(-76.425 26)"/>
+            <g id="그룹_150" data-name="그룹 150">
+                <path id="패스_6" d="M43.711 5.58l7.713 21.252h-3.8L40.19 5.58z" class="cls-2" data-name="패스 6" transform="translate(226.712 21.378)"/>
+                <path id="패스_7" d="M3.443 75.219H0A11.819 11.819 0 0 1 7.527 64l1.279 3.2a8.324 8.324 0 0 0-5.363 8.019z" class="cls-2" data-name="패스 7" transform="translate(260 -27.009)"/>
+            </g>
+        </g>
+    </g>
+</svg>
